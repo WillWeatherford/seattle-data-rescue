@@ -1,0 +1,15 @@
+{
+	"Date of capture": "Sat Feb 25 2017 18:03:05 GMT-0800 (PST)",
+	"File formats contained in package": "csv",
+	"Free text description of capture process": "jQuery, wget loop",
+	"Individual source or seed URL": "https://maps.nrel.gov/swera",
+	"Institution facilitating the data capture creation and packaging": "University of Washington CSE DB Group, DataRescue Seattle",
+	"Name of package creator": "dhutchis",
+	"Name of resource": "NREL Solar and Wind Energy Resource Assessment (SWERA) data",
+	"Type(s) of content in package": "Beta release of atmospheric data plotted on a map of the USA.",
+	"UUID": "69840376-C0D8-4BD1-A6B1-0C31DE1BCA76",
+	"recommended_approach": "Python script to post the different queries in order to download the resulting maps",
+	"significance": "Beta release of atmospheric data plotted on a map of the USA.",
+	"title": "SWERA",
+	"url": "https://maps.nrel.gov/swera"
+}

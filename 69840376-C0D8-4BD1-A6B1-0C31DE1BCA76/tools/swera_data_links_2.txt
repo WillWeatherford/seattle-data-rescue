@@ -1,0 +1,42 @@
+l-cKcSAir Temperature
+dmAzuTAtmospheric Pressure
+Rlw-idCooling Degree Days
+XM_bX4Earth Skin Temperature
+yo5qwKHeating Degree Days
+Mf7tAKRelative Humidity
+om7n4nDNI GeoModel High Resolution
+c9FGLxDNI INPE High Resolution
+Tb8_EPDNI INPE Moderate Resolution
+840V1jDNI NASA Low Resolution
+kKV2XWDNI NREL Moderate Resolution
+K5UEEhDNI SUNY High Resolution
+uhUo8LGHI DLR High Resolution
+z0JMesGHI GeoModel High Resolution
+Hj0X2RGHI INPE High Resolution
+we1q1FGHI INPE Moderate Resolution
+0bbQfGGHI NASA Low Resolution
+ZHWReMGHI NREL Moderate Resolution
+K-ndRtGHI SUNY High Resolution
+ME4NNKTILT GeoModel High Resolution
+sNgXh9TILT INPE High Resolution
+ukG-GdTILT INPE Moderate Resolution
+qoNlp8TILT NASA Low Resolution
+YOq883TILT NREL Moderate Resolution
+eQIKPvTILT SUNY High Resolution
+6g9qt4Admin
+c6iRZsCities
+pLAzfIInternational Parks
+oC0X-GLakes
+BiUyPtMajor Cities
+LJquxCMajor Lakes
+spNvJ0Major Rivers
+8JxcvPNational Parks
+80wzrpNational Parks (Other)
+eFtuaKRivers
+rtOuw_Wind INPE High Resolution
+ns8O5HWind INPE Moderate Resolution
+vMk7CeWind NASA Low Resolution
+gdkS7EWind NOAA Moderate Resolution
+udIZD3Wind NREL Int'l High Resolution
+cHwSbrWind NREL U.S. High Resolution
+T488l9Wind NREL U.S. Offshore High Resolution
